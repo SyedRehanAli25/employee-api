@@ -1,0 +1,5 @@
+aws_region  = "us-east-1"
+application = "notification-service"
+environment = "dev"
+owner       = "ayushi-pandey"
+cost_center = "OTMS-DEV"

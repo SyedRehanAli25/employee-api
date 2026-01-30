@@ -1,0 +1,5 @@
+vpc_cidr   = "10.0.0.0/18"
+environment = "dev"
+application = "ot-ms"
+owner       = "snaatak"
+vpc_name    = "vpc-ot-ms"
